@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">TableLayout</string>
     <string name="titulo">Trabalho de Dispositivos Móveis</string>
     <string name="produto">Produto</string>
     <string name="valor">Valor Kg (R$):</string>
@@ -10,4 +10,6 @@
     <string name="valor1">25,00</string>
     <string name="valor2">17,00</string>
     <string name="valor3">6,90</string>
+    <string name="produto4">Batata doce</string>
+    <string name="valor4">7,99</string>
 </resources>

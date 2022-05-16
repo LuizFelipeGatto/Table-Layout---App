@@ -86,6 +86,20 @@
                 android:text="@string/valor3"
                 android:textAlignment="center" />
         </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:layout_column="1"
+                android:padding="3dip"
+                android:text="@string/produto4"
+                android:textAlignment="center" />
+
+            <TextView
+                android:padding="3dip"
+                android:text="@string/valor4"
+                android:textAlignment="center" />
+        </TableRow>
     </TableLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
